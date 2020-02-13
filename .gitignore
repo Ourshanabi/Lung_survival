@@ -11,6 +11,8 @@
 
 *.pyc
 *.npy
+*.npz
+
 
 
 experiment/
