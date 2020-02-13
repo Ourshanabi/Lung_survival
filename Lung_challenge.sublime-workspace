@@ -1,0 +1,449 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"de",
+				"destroy"
+			],
+			[
+				"cur",
+				"curr_action"
+			],
+			[
+				"Y",
+				"Yolo_Bird_Detector"
+			],
+			[
+				"Trai",
+				"Training"
+			],
+			[
+				"deg",
+				"degree"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/Rzhang/Desktop/Altegrad_classification/graph_baseline.py",
+			"settings":
+			{
+				"buffer_size": 2124,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"About"
+			],
+			[
+				"sett",
+				"Preferences: Settings"
+			],
+			[
+				"anaconda lin",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/C/Users/Rzhang/Desktop/Lung_survival/.gitignore",
+		"/C/Users/Rzhang/Desktop/Altegrad_classification/.gitignore",
+		"/C/Users/Rzhang/Desktop/Altegrad_classification/text/text/3",
+		"/C/Users/Rzhang/Desktop/Altegrad_classification/text/text/0",
+		"/C/Users/Rzhang/Desktop/Raymond_Test.py",
+		"/C/Users/Rzhang/AppData/Local/Temp/Rar$DIa16200.11960/graph_baseline.csv",
+		"/C/Users/Rzhang/AppData/Local/Temp/Rar$DIa16200.11054/train.csv",
+		"/C/Users/Rzhang/AppData/Local/Temp/Rar$DIa16200.9832/train_noduplicates.csv",
+		"/C/Users/Rzhang/AppData/Local/Temp/Rar$DIa16200.13750/graph_baseline.py",
+		"/C/Users/Rzhang/AppData/Local/Temp/Rar$DIa16200.22315/text_baseline.py",
+		"/C/Users/Rzhang/Desktop/Lung/test/features/clinical_data.csv",
+		"/C/Users/Rzhang/Desktop/Lung/train/features/clinical_data.csv",
+		"/C/Users/Rzhang/Desktop/Lung/Appendix.md",
+		"/C/Users/Rzhang/Desktop/Lung/random_submission_0vhlEZN.csv",
+		"/C/Users/Rzhang/AppData/Local/Temp/Rar$DIa16200.47318/graph_baseline.py",
+		"/C/Users/Rzhang/Desktop/Lung/metrics_t9gbvr2.py",
+		"/C/Users/Rzhang/Downloads/metrics_t9gbvr2.py",
+		"/C/Users/Rzhang/Desktop/Lung/output_VSVxRFU.csv",
+		"/C/Users/Rzhang/Desktop/Lung/features/radiomics.csv",
+		"/C/Users/Rzhang/Desktop/Lung/features/clinical_data.csv",
+		"/C/Users/Rzhang/Desktop/DirectFuturePrediction_CARLA/DFP/carla_simulator.py",
+		"/C/Users/Rzhang/Desktop/DirectFuturePrediction_CARLA/examples/carla/run_exp.py",
+		"/C/Users/Rzhang/Desktop/DirectFuturePrediction_CARLA/DFP/agent.py",
+		"/C/Users/Rzhang/Desktop/DirectFuturePrediction_CARLA/DFP/future_predictor_agent_advantage.py",
+		"/C/Users/Rzhang/Desktop/DirectFuturePrediction_CARLA/examples/mountain/run_exp.py",
+		"/C/Users/Rzhang/Desktop/DirectFuturePrediction_CARLA/DFP/Gym_simulator.py",
+		"/C/Users/Rzhang/Downloads/random_submission_0vhlEZN.csv",
+		"/C/Users/Rzhang/Downloads/output_VSVxRFU.csv",
+		"/C/Users/Rzhang/AppData/Local/Temp/Rar$DIa14160.29575/Appendix.md",
+		"/C/Users/Rzhang/Desktop/DirectFuturePrediction_CARLA/examples/cartpole/run_exp.py",
+		"/C/Users/Rzhang/Desktop/DirectFuturePrediction-pretrained_models/examples/D4_battle2/run_exp.py",
+		"/C/Users/Rzhang/Desktop/DirectFuturePrediction-pretrained_models/DFP/doom_simulator.py",
+		"/C/Users/Rzhang/Desktop/DirectFuturePrediction-pretrained_models/DFP/defaults.py",
+		"/C/Users/Rzhang/Desktop/DirectFuturePrediction_CARLA/DFP/defaults.py",
+		"/C/Users/Rzhang/Desktop/DirectFuturePrediction-pretrained_models/maps/D4_battle2.cfg",
+		"/C/Users/Rzhang/Desktop/DirectFuturePrediction_CARLA/examples/D1_basic/run_exp.py",
+		"/C/Users/Rzhang/Desktop/carla/PythonAPI/examples/spawn_npc.py",
+		"/C/Users/Rzhang/Desktop/DirectFuturePrediction-pretrained_models/examples/D1_basic/run_exp.py",
+		"/C/Users/Rzhang/Desktop/DirectFuturePrediction_CARLA/maps/mountain.cfg",
+		"/C/Users/Rzhang/Desktop/DirectFuturePrediction_CARLA/DFP/multi_experiment.py",
+		"/C/Users/Rzhang/Desktop/carla/PythonAPI/carla/agents/navigation/agent.py",
+		"/C/Users/Rzhang/Desktop/DirectFuturePrediction-pretrained_models/DFP/future_predictor_agent_advantage.py",
+		"/C/Users/Rzhang/Desktop/carla/README.md",
+		"/C/Users/Rzhang/Desktop/carla2/PythonClient/client_example.py",
+		"/C/Users/Rzhang/Desktop/DirectFuturePrediction_CARLA/examples/D3-tx_battle_99maps/run_exp.py",
+		"/C/Users/Rzhang/Desktop/DirectFuturePrediction_CARLA/DFP/util.py",
+		"/C/Users/Rzhang/Desktop/DirectFuturePrediction_CARLA/DFP/future_predictor_agent_advantage_nonorm.py",
+		"/C/Users/Rzhang/Desktop/DirectFuturePrediction_CARLA/DFP/multi_experience_memory.py",
+		"/C/Users/Rzhang/Desktop/DirectFuturePrediction_CARLA/examples/cartpole/run_exp.py.train",
+		"/C/Users/Rzhang/Desktop/MVA_2019_2020/.gitignore",
+		"/C/Users/Rzhang/Desktop/DirectFuturePrediction-pretrained_models/DFP/future_predictor_agent_advantage_nonorm.py",
+		"/C/Users/Rzhang/Desktop/MVA_2019_2020/Object_Recognition/Assignment3/recvis19_a3-master/experiment/kaggle90L036.csv",
+		"/C/Users/Rzhang/Desktop/MVA_2019_2020/Object_Recognition/Assignment3/recvis19_a3-master/experiment/kaggle90L037.csv",
+		"/C/Users/Rzhang/Desktop/MVA_2019_2020/Object_Recognition/Assignment3/recvis19_a3-master/experiment/kaggle91L0.31.csv",
+		"/C/Users/Rzhang/Desktop/DirectFuturePrediction-master/DFP/doom_simulator.py",
+		"/C/Users/Rzhang/Desktop/MVA_2019_2020/Object_Recognition/Assignment3/recvis19_a3-master/experiment/kaggle91L032.csv",
+		"/C/Users/Rzhang/Desktop/MVA_2019_2020/Object_Recognition/Assignment3/recvis19_a3-master/merge.py",
+		"/C/Users/Rzhang/Desktop/MVA_2019_2020/Object_Recognition/Assignment3/recvis19_a3-master/experiment/kaggleMerge.csv",
+		"/C/Users/Rzhang/Desktop/MVA_2019_2020/Object_Recognition/Assignment3/recvis19_a3-master/experiment/kagglemerge.csv",
+		"/C/Users/Rzhang/Desktop/MVA_2019_2020/Object_Recognition/Assignment3/recvis19_a3-master/main.py",
+		"/C/Users/Rzhang/Desktop/MVA_2019_2020/Object_Recognition/Assignment3/recvis19_a3-master/model1.py",
+		"/C/Users/Rzhang/Desktop/MVA_2019_2020/Object_Recognition/Assignment3/recvis19_a3-master/data.py",
+		"/C/Users/Rzhang/Desktop/MVA_2019_2020/Object_Recognition/Assignment3/recvis19_a3-master/model.py",
+		"/C/Users/Rzhang/Desktop/MVA_2019_2020/Object_Recognition/Assignment3/recvis19_a3-master/experiment/kaggle.csv",
+		"/C/Users/Rzhang/Desktop/MVA_2019_2020/Object_Recognition/Assignment3/recvis19_a3-master/evaluate.py",
+		"/C/Users/Rzhang/Desktop/MVA_2019_2020/Object_Recognition/Assignment3/recvis19_a3-master/experiment/kaggle89L0.32.csv",
+		"/C/Users/Rzhang/Desktop/MVA_2019_2020/Object_Recognition/Assignment3/recvis19_a3-master/features_eval.py",
+		"/C/Users/Rzhang/Desktop/MVA_2019_2020/Object_Recognition/Assignment3/recvis19_a3-master/Features.py",
+		"/C/Users/Rzhang/Desktop/MVA_2019_2020/Object_Recognition/Assignment3/recvis19_a3-master/YOLO.py",
+		"/C/Users/Rzhang/Desktop/MVA_2019_2020/Object_Recognition/Assignment3/recvis19_a3-master/preprocess.py",
+		"/C/Users/Rzhang/Desktop/MVA_2019_2020/Object_Recognition/Assignment3/recvis19_a3-master/Evaluate_features.ipynb",
+		"/C/Users/Rzhang/Desktop/MVA_2019_2020/Object_Recognition/Assignment3/recvis19_a3-master/main1.py",
+		"/C/Users/Rzhang/Desktop/MVA_2019_2020/Object_Recognition/Assignment3/recvis19_a3-master/experiment/kaggle89L0.33.csv",
+		"/C/Users/Rzhang/Desktop/MVA_2019_2020/Object_Recognition/Assignment3/recvis19_a3-master/PyTorch_YOLO/weights/yolov3.weights",
+		"/C/Users/Rzhang/Desktop/MLforFlowOptimisationOrigine/Vissim/Results/SCScumulative_stop_delay.csv",
+		"/C/Users/Rzhang/Desktop/MVA_2019_2020/ALTEGRAD/LAB2/code/main.py",
+		"/C/Users/Rzhang/Desktop/MLforFlowOptimisationOrigine/Vissim/Vissim_env_class.py",
+		"/C/Users/Rzhang/Desktop/MLforFlowOptimisationOrigine/Vissim/Actor_Critic_Agents.py",
+		"/C/Users/Rzhang/Desktop/MLforFlowOptimisationOrigine/Vissim/DQNAgents.py",
+		"/C/Users/Rzhang/Desktop/MLforFlowOptimisationOrigine/Vissim/MasterDQN_Agent.py",
+		"/C/Users/Rzhang/Desktop/MLforFlowOptimisationOrigine/Vissim/MasterAC_Agent.py",
+		"/C/Users/Rzhang/Desktop/MVA_2019_2020/ALTEGRAD/LAB2/code/preprocessing.py",
+		"/Users/rzhang/Desktop/MVA_2019_2020/.gitignore",
+		"/Users/rzhang/Desktop/MVA_2019_2020/Object Recognition/Assignment1/install_cyvlfeat.py",
+		"/Users/rzhang/Desktop/MVA_2019_2020/ALTEGRAD/LAB1/code/library.py",
+		"/Users/rzhang/Desktop/MVA_Course/ALTEGRAD/LAB1/code/library.py",
+		"/Users/rzhang/Desktop/Cours_MVA",
+		"/Users/rzhang/Desktop/Liste_truc",
+		"/Users/rzhang/Dropbox/PAPER--TMF/MAIN_DRL_UTC.tex",
+		"/Users/rzhang/Dropbox/PAPER--TMF/PREAMBLE.tex",
+		"/Users/rzhang/Dropbox/PAPER--TMF/1-INTRODUCTION.tex",
+		"/Users/rzhang/Desktop/Intership_Turing/main.toc",
+		"/Users/rzhang/Desktop/Intership_Turing/main.pdf",
+		"/Users/rzhang/Desktop/Intership_Turing/main.tex",
+		"/Users/rzhang/Desktop/MLforFlowOptimisation/Vissim/Actor_Critic_Agents.py",
+		"/Users/rzhang/Desktop/MLforFlowOptimisation/Vissim/Actor_critic_class.py",
+		"/Users/rzhang/Desktop/MLforFlowOptimisation/Vissim/env.ipynb"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"trans",
+			"tra",
+			"self.spawn_point",
+			"carla.tr",
+			"self.spawn_point",
+			"set_transform",
+			"self.collided",
+			"avera",
+			"self.curr_step",
+			"random",
+			"self.rwrd_schedules",
+			"global_step",
+			"num_steps",
+			"batch_size",
+			"150000",
+			"objective_indices",
+			"add_n_steps_with_actor",
+			"add_n_steps_with_actor\n",
+			"])\n",
+			"add_n_steps_with_actor",
+			"Agent.Actor",
+			"get_actor",
+			"self.get_actor",
+			"train",
+			"objec",
+			"compute_avg_meas_and_rwrd",
+			"Average reward per episode",
+			")\n",
+			"acts",
+			"multi_sim",
+			"step",
+			"self.multi_simulator",
+			"step",
+			"env",
+			"action",
+			"curr_action",
+			"input_actionsnum_net_discrete_actions",
+			"input_actions",
+			"input",
+			"objectiv",
+			"make",
+			"targ",
+			"self.input_measurements",
+			"preprocess",
+			"step",
+			"targe",
+			"meas_to_predict",
+			"self.sess",
+			"objective",
+			"objective_coeffs_temporal",
+			"hist'objective_coeffs_temporal",
+			"hist'objective_coeffs_temporal'",
+			"hist",
+			"his",
+			"objec",
+			"histo"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/Rzhang/Desktop/Altegrad_classification/graph_baseline.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2124,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 35.2
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.latextools":
+	{
+		"height": 108.0
+	},
+	"pinned_build_system": "Packages/LaTeXTools/LaTeX.sublime-build",
+	"project": "Lung_challenge.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"maps\\mountain.cfg"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 286.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
