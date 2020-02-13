@@ -1,0 +1,21 @@
+
+#No images nor datasets
+*.abstr
+*.uncontr
+*.png
+*.jpg
+*.tar
+*.gz
+*.mat
+*.zip
+
+*.pyc
+*.npy
+
+
+experiment/
+PyTorch_YOLO/
+*.DS_Store
+
+#Ignore large files 
+#find . -size +1G | sed 's|^\./||g' | cat >> .gitignore; awk '!NF || !seen[$0]++' .gitignore
